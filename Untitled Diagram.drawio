@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T14:04:30.613Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="2hUSVBW9ZJnE9XFgly4n" version="23.1.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-01T10:26:39.158Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="pWYu6nccOEXyLzzXCH55" version="23.1.6" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2021" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -684,7 +684,7 @@
           <mxGeometry x="735" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Kdbgs724yVITICXhiOlG-14" value="PE7:&amp;nbsp;Data is read by EMG sensor and transported to the base as digital information" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="890" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kdbgs724yVITICXhiOlG-16" value="PE9: Alchohol to prepare subjects skin for placement" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="737" y="60" width="96" height="60" as="geometry" />
@@ -693,7 +693,7 @@
           <mxGeometry x="400" y="340" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kdbgs724yVITICXhiOlG-18" value="PE10: Simple muscle movement for data acqusition" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kdbgs724yVITICXhiOlG-20" value="Electrode ready to use on subject" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="260" width="130" height="60" as="geometry" />
@@ -718,8 +718,8 @@
         </mxCell>
         <mxCell id="oJK_CkECBY2WvH1oQKf--4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kdbgs724yVITICXhiOlG-14" target="Kdbgs724yVITICXhiOlG-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="210" as="sourcePoint" />
-            <mxPoint x="960" y="160" as="targetPoint" />
+            <mxPoint x="840" y="210" as="sourcePoint" />
+            <mxPoint x="890" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oJK_CkECBY2WvH1oQKf--5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -806,6 +806,192 @@
             <mxPoint x="870" y="320" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2__5bmxo1Klzs3q8uK92" name="Page-5">
+    <mxGraphModel dx="2096" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-1" value="FE1: Generate laser induced graphene, the&amp;nbsp;process of using a laser to convert the Kapton tape into graphene&lt;span style=&quot;text-align: start;&quot; class=&quot;OYPEnA text-decoration-none text-strikethrough-none white-space-prewrap&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-2" value="FE2: Pattern of electrode, describes the structure of the graphene into a specific shape or pattern" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-3" value="FE3: Integration of electrode with EMG sensor&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-4" value="FE4: Adhesive to stick electrode to subject surface, ensures stable&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="719.25" y="420" width="131.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-5" value="PE1: Laser to engrave the Kapton tape to create the graphene for the electrode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="280" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-6" value="PE2:&amp;nbsp;Calibrate the laser to ensure the best quality&amp;nbsp;&lt;br&gt;and results of signal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="390" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-7" value="PE3:&amp;nbsp;Round shape of the electrode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="250" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-8" value="&amp;nbsp;PE4:&lt;br&gt;Standard 10 mm steel snaps to connect to EMG sensor&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="722.5" y="310" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-9" value="PE5:&amp;nbsp;Kapton tape adhesive that sticks together around the measured surface, ends of tape of electrode stick together&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="520" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-10" value="PE6:&amp;nbsp;Conductive gel to ensure signal quality&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-11" value="PE7:&amp;nbsp;Data is read by EMG sensor and transported to the base as digital information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-12" value="PE9: Alchohol to prepare subjects skin for placement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="737" y="60" width="96" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-13" value="PE8: Conducting adhesive to fold graphene electrodes together&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-14" value="PE10: Simple muscle movement for data acqusition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-15" value="Electrode ready to use on subject" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-16" value="Ensure functionality of graphene conducting material" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-5" target="bmSXQ8dCXCbCkrkkowHR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-5" target="bmSXQ8dCXCbCkrkkowHR-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="290" as="sourcePoint" />
+            <mxPoint x="80" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-6" target="bmSXQ8dCXCbCkrkkowHR-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="74.58" y="390" as="sourcePoint" />
+            <mxPoint x="74.58" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-11" target="bmSXQ8dCXCbCkrkkowHR-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="210" as="sourcePoint" />
+            <mxPoint x="900" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="420" as="sourcePoint" />
+            <mxPoint x="180" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="330" as="sourcePoint" />
+            <mxPoint x="180" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-23" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="400" as="sourcePoint" />
+            <mxPoint x="180" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="390" as="sourcePoint" />
+            <mxPoint x="180" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bmSXQ8dCXCbCkrkkowHR-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="280" as="sourcePoint" />
+            <mxPoint x="370" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-7" target="bmSXQ8dCXCbCkrkkowHR-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-13" target="bmSXQ8dCXCbCkrkkowHR-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-16" target="bmSXQ8dCXCbCkrkkowHR-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="sourcePoint" />
+            <mxPoint x="490" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-10" target="bmSXQ8dCXCbCkrkkowHR-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="755" y="230" as="sourcePoint" />
+            <mxPoint x="805" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-3" target="bmSXQ8dCXCbCkrkkowHR-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="755" y="220" as="sourcePoint" />
+            <mxPoint x="805" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-8" target="bmSXQ8dCXCbCkrkkowHR-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="725" y="400" as="sourcePoint" />
+            <mxPoint x="775" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-4" target="bmSXQ8dCXCbCkrkkowHR-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="480" as="sourcePoint" />
+            <mxPoint x="765" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-9" target="bmSXQ8dCXCbCkrkkowHR-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="480" as="sourcePoint" />
+            <mxPoint x="765" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bmSXQ8dCXCbCkrkkowHR-15" target="bmSXQ8dCXCbCkrkkowHR-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="370" as="sourcePoint" />
+            <mxPoint x="870" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="100" width="170" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="170" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="20" width="170" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CC0000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="890" y="160" width="150" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-41" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Pre-phase&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-42" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;b&gt;Physical properties&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="407.5" y="100" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-43" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Placemant and connection&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="20" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmSXQ8dCXCbCkrkkowHR-45" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Data acqusition&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="160" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
