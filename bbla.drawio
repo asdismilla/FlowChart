@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T14:51:19.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="urU7aiaYVp0IXVDLjsew" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T12:18:16.723Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="T24jFin3jdQag49iiPW5" version="23.1.7" type="github">
   <diagram name="Page-1" id="Xys8G413r45YZBC3T7wg">
-    <mxGraphModel dx="739" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="J8Dny0zLseRTvjEibwT8-8" value="Cost effective triode with Kapton tape as adhesive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="J8Dny0zLseRTvjEibwT8-9" value="&lt;div&gt;Laser power&lt;/div&gt;&lt;div&gt;Laser processing time&lt;/div&gt;&lt;div&gt;Laser velocity&lt;/div&gt;&lt;div&gt;Laser focusing/dot size&lt;/div&gt;&lt;div&gt;Arm length of Kapton tape&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J8Dny0zLseRTvjEibwT8-9" value="&lt;div&gt;&lt;b&gt;Laser power&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Laser processing time&lt;/div&gt;&lt;div&gt;&lt;b&gt;Laser velocity&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Laser focusing/dot size&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Arm length of Kapton tape&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="280" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J8Dny0zLseRTvjEibwT8-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="J8Dny0zLseRTvjEibwT8-8">
@@ -43,10 +43,10 @@
         <mxCell id="J8Dny0zLseRTvjEibwT8-19" value="Performance Metrics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="210" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J8Dny0zLseRTvjEibwT8-21" value="Laser calibration&lt;br&gt;Material impurities&lt;br&gt;Kapton tape variability&amp;nbsp;&lt;br&gt;Uneven surface of bedding&lt;br&gt;Air bubble between tape and bedding&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="420" width="152.5" height="30" as="geometry" />
+        <mxCell id="J8Dny0zLseRTvjEibwT8-21" value="Laser calibration&lt;br&gt;Material impurities&lt;br&gt;Kapton tape variability&amp;nbsp;&lt;br&gt;&lt;b&gt;Uneven surface of bedding&lt;br&gt;Air bubble between tape and bedding&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="420" width="152.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J8Dny0zLseRTvjEibwT8-27" value="Sheet resistance&lt;br&gt;Adhesion strength&amp;nbsp;&lt;br&gt;Graphene quality&amp;nbsp;&lt;br&gt;Cost of production&lt;br&gt;Signal quality compared to standard electrodes&lt;br&gt;Application time&lt;br&gt;Pressure scale&lt;br&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J8Dny0zLseRTvjEibwT8-27" value="&lt;b&gt;Sheet resistance&lt;br&gt;&lt;/b&gt;Adhesion strength&amp;nbsp;&lt;br&gt;Graphene quality&amp;nbsp;&lt;br&gt;Cost of production&lt;br&gt;Signal quality compared to standard electrodes&lt;br&gt;Application time&lt;br&gt;Pressure scale&lt;br&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J8Dny0zLseRTvjEibwT8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J8Dny0zLseRTvjEibwT8-9" target="J8Dny0zLseRTvjEibwT8-9">
